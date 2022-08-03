@@ -9,7 +9,7 @@
 
 ## Beginning of the game
 <img width="306" alt="Screen Shot 2022-08-02 at 2 43 00 PM" src="https://user-images.githubusercontent.com/37741042/182497521-0953a6a4-0cb0-4d36-aaf8-a98824bd75ba.png"> 
-<img width="166" alt="Screen Shot 2022-08-02 at 2 43 54 PM" src="https://user-images.githubusercontent.com/37741042/182498373-766b09ff-f61a-4e0b-8d18-4a425bdaa7f0.png"><img width="197" alt="Screen Shot 2022-08-02 at 2 44 00 PM" src="https://user-images.githubusercontent.com/37741042/182498383-e2273771-dbdd-4a87-be7a-48ad1ccb90d1.png">
+<img width="166" alt="Screen Shot 2022-08-02 at 2 43 54 PM" src="https://user-images.githubusercontent.com/37741042/182498373-766b09ff-f61a-4e0b-8d18-4a425bdaa7f0.png"> <img width="197" alt="Screen Shot 2022-08-02 at 2 44 00 PM" src="https://user-images.githubusercontent.com/37741042/182498383-e2273771-dbdd-4a87-be7a-48ad1ccb90d1.png">
 
 
 ## Keep playing until there is a bingo
